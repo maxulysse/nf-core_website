@@ -27,7 +27,7 @@
     "dependencies": {
         "@highlightjs/cdn-assets": "^11.6.0",
         "autoprefixer": "^10.0.2",
-        "aws-sdk": "^2.994.0",
+        "aws-sdk": "^2.1354.0",
         "bootstrap": "^5.1.1",
         "bootstrap-dark-5": "1.1.1",
         "bootstrap-print-css": "^1.0.1",
