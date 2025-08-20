@@ -61,7 +61,7 @@
         "leaflet": "^1.9.4",
         "leaflet-fullscreen": "^1.0.2",
         "lite-youtube-embed": "^0.3.3",
-        "mermaid": "^11.6.0",
+        "mermaid": "^11.10.0",
         "nanostores": "^0.11.4",
         "octokit": "^4.1.2",
         "party-js": "^2.2.0",
